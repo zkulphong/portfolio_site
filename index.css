@@ -29,7 +29,7 @@ li {
 
 .media{
   display: block;
-  width: 164px;
+  width: 180px;
   -ms-transform: translateX(30%);
   -webkit-transform: translateX(30%);
   transform: translateX(30%);
