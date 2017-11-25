@@ -29,6 +29,7 @@ li {
 
 .media{
   display: block;
+  width: 160px;
   -ms-transform: translateX(30%);
   -webkit-transform: translateX(30%);
   transform: translateX(30%);
