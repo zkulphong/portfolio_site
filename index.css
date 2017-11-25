@@ -28,9 +28,9 @@ li {
 
 
 .media{
-  -ms-transform: translateX(25%);
-  -webkit-transform: translateX(25%);
-  transform: translateX(25%);
+  -ms-transform: translateX(50px);
+  -webkit-transform: translateX(50px);
+  transform: translateX(50px);
 
 }
 #top{
