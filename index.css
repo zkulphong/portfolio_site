@@ -31,7 +31,8 @@ li {
 }
 
 .media{
-  padding-left: 40%;
+  display: block;
+  margin: auto;
 
 }
 #top{
