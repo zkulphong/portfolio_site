@@ -31,7 +31,7 @@ li {
 }
 
 .media{
-  
+
 }
 #top{
   height: 100%;
@@ -113,6 +113,7 @@ li {
 
 #projects{
   height: auto;
+  min-height: 750px;
 }
 
 #projects_contents{
