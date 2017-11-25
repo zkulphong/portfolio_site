@@ -28,12 +28,8 @@ li {
 
 
 .media{
-  display: block;
-  width: 180px;
-  -ms-transform: translateX(30%);
-  -webkit-transform: translateX(30%);
-  transform: translateX(30%);
-
+  display: table;
+  margin: 0 auto;
 }
 #top{
   height: 100%;
