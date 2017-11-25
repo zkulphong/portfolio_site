@@ -31,7 +31,8 @@ li {
 }
 
 .media{
-
+  display: block;
+  margin: auto;
 }
 #top{
   height: 100%;
