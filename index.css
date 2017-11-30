@@ -102,6 +102,7 @@ li {
 
 #skills_table{
   width: auto;
+  margin: 0 auto;
   max-width: 100%;
   color: white;
   position: relative;
