@@ -146,6 +146,8 @@ li {
 }
 
 .img{
+  width: auto;
+  height: auto;
   max-height: 300px;
   max-width: 75%;
   padding: 10px;
