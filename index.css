@@ -141,6 +141,6 @@ li {
   line-height: 0%;
 }
 
-.mdc-card__media-item{
+img.mdc-card__media-item{
   width: 1000px;
 }
