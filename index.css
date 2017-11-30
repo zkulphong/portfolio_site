@@ -142,5 +142,6 @@ li {
 }
 
 .img{
-  width: 1000px;
+  width: auto;
+  max-width: 100%;
 }
