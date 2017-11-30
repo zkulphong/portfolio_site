@@ -142,6 +142,5 @@ li {
 }
 
 .mdc-card__media-item{
-  max-width: 500px;
-  width: auto;
+  width: 500px;
 }
