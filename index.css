@@ -34,7 +34,7 @@ li {
 #top{
   height: 100%;
   min-height: 750px;
-  max-width: 800%;
+  max-width: 100%;
   width: auto;
   -webkit-animation: move 10s ease infinite;
         animation: move 10s ease infinite;
@@ -65,7 +65,7 @@ li {
 }
 
 #bio_contents{
-  max-width: 600px;
+  max-width: 90%;
   width: auto;
   margin: 0 auto;
   text-align: center;
@@ -86,7 +86,7 @@ li {
 
 
 #skills_contents{
-  max-width: 500px;
+  max-width: 90%;
   width: auto;
   margin: 0 auto;
   text-align: center;
@@ -128,7 +128,7 @@ li {
 }
 
 #contact_me_contents{
-  max-width: 500px;
+  max-width: 90%;
   width: auto;
   margin: 0 auto;
   text-align: center;
@@ -141,6 +141,7 @@ li {
   line-height: 0%;
 }
 
-.projects_text{
-  max-width: 100%;
+.mdc-card__primary{
+  max-width: 90%;
+  width: auto;
 }
