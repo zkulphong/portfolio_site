@@ -140,6 +140,10 @@ li {
   max-width: 100%;
 }
 
+.buffer{
+  height: 5px;
+}
+
 /*img{
   width: auto;
   height: auto;
