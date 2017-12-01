@@ -68,14 +68,12 @@ li {
 
 #bio{
   height: auto;
-  min-height: 500px;
 }
 
 #bio_contents{
   margin: auto auto;
   max-width: 600px;
   width: auto;
-  vertical-align: middle;
   text-align: center;
   color: black;
   line-height: 0%;
@@ -83,7 +81,6 @@ li {
 
 #skills{
   height: auto;
-  min-height: 500px;
   background: turquoise;
 }
 
