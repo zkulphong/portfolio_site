@@ -123,6 +123,7 @@ li {
 }
 
 #contact_me_contents{
+  max-width: 500px;
   width: auto;
   margin: 0 auto;
   text-align: center;
