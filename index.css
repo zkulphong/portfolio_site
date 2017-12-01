@@ -76,7 +76,6 @@ li {
   width: auto;
   margin: 0 auto;
   text-align: center;
-  position: relative;
   top: 50%;
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
@@ -96,7 +95,6 @@ li {
   max-width: 500px;
   width: auto;
   text-align: center;
-  position: relative;
   top: 50%;
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
