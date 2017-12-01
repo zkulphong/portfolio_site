@@ -75,7 +75,6 @@ li {
   margin: auto auto;
   max-width: 600px;
   width: auto;
-  margin: 0 auto;
   text-align: center;
   color: black;
   line-height: 0%;
@@ -102,7 +101,7 @@ li {
   max-width: 100%;
   color: white;
   position: relative;
-  margin: 0 auto;
+  margin: auto auto;
 
 }
 
