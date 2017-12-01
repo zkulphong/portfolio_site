@@ -161,7 +161,7 @@ li {
 }*/
 
 @media screen and (max-width: 1000px) {
-    table {
-        margin-left: 0;
+    #skills_table {
+        float: left;
     }
 }
