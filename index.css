@@ -2,6 +2,18 @@
   td{
     font-size: 80%;
   }
+
+  .top_text{
+    margin: 0;
+    padding: 5px;
+    padding-bottom: 3px;
+  }
+
+  .bio_text{
+    margin: 0;
+    padding: 5px;
+    margin-bottom: -5px;
+  }
 }
 
 body {
@@ -16,13 +28,13 @@ li {
 
 .top_text{
   margin: 0;
-  padding: 10px;
+  padding: 0;
   padding-bottom: 3px;
 }
 
 .bio_text{
   margin: 0;
-  padding: 10px;
+  padding: 0;
   margin-bottom: -5px;
 }
 
