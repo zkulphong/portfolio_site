@@ -72,6 +72,8 @@ li {
 }
 
 #bio_contents{
+  max-width: 600px;
+  width: auto;
   margin: 0 auto;
   text-align: center;
   color: black;
@@ -86,6 +88,8 @@ li {
 
 
 #skills_contents{
+  max-width: 500px;
+  width: auto;
   text-align: center;
   color: white;
   line-height: 0%;
