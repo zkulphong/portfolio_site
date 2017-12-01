@@ -162,7 +162,7 @@ li {
   height: 500px;
 }*/
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1000px) {
     #skills_table {
         float: left;
     }
