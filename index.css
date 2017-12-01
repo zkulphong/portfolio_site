@@ -1,3 +1,14 @@
+@media screen and (max-width: 500px){
+  #skills_table{
+    font-size: 75%;
+    width: auto;
+    max-width: 100%;
+    color: white;
+    position: relative;
+
+  }
+}
+
 body {
       width: 100%;
       margin: 0;
@@ -104,6 +115,7 @@ li {
   width: auto;
   max-width: 100%;
   color: white;
+  position: relative;
 
 }
 
