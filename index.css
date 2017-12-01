@@ -38,6 +38,7 @@ li {
   display: table;
   margin: 0 auto;
 }
+
 #top{
   height: 100%;
   min-height: 750px;
@@ -66,7 +67,7 @@ li {
 }
 
 #bio{
-  height: 60%;
+  height: auto;
   min-height: 500px;
 }
 
@@ -85,7 +86,7 @@ li {
 }
 
 #skills{
-  height: 70%;
+  height: auto;
   min-height: 500px;
   background: turquoise;
 }
