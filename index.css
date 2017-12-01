@@ -88,7 +88,6 @@ li {
 #skills_contents{
   max-width: 500px;
   width: auto;
-  margin: 0 auto;
   text-align: center;
   position: relative;
   top: 50%;
@@ -103,7 +102,6 @@ li {
 
 #skills_table{
   width: auto;
-  margin: 0 auto;
   max-width: 100%;
   color: white;
   position: relative;
