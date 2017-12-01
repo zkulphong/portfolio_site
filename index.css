@@ -74,12 +74,8 @@ li {
 #bio_contents{
   max-width: 600px;
   width: auto;
-  margin: 0 auto;
+  margin: auto auto;
   text-align: center;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
   color: black;
   line-height: 0%;
 }
@@ -95,10 +91,6 @@ li {
   max-width: 500px;
   width: auto;
   text-align: center;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
   color: white;
   line-height: 0%;
 
