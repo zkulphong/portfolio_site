@@ -107,6 +107,7 @@ li {
 #projects{
   height: auto;
   min-height: 750px;
+  margin: 0 auto;
 }
 
 #projects_contents{
