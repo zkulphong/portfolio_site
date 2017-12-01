@@ -72,7 +72,7 @@ li {
 }
 
 #bio_contents{
-  margin: auto 0;
+  margin: auto auto;
   max-width: 600px;
   width: auto;
   margin: 0 auto;
@@ -89,7 +89,7 @@ li {
 
 
 #skills_contents{
-  margin: auto 0;
+  margin: auto auto;
   max-width: 500px;
   width: auto;
   text-align: center;
